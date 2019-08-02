@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172406342060",
+    "firebase_url": "https://premium-archery-205319.firebaseio.com",
+    "project_id": "premium-archery-205319",
+    "storage_bucket": "premium-archery-205319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172406342060:android:d74132b32bdfe757",
+        "android_client_info": {
+          "package_name": "com.example.testklotin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172406342060-tgdciaadgvenn8bgdv30c24gdl38tcgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testklotin",
+            "certificate_hash": "1ad6806ef0762a9a19553ab5f6012309d757a7af"
+          }
+        },
+        {
+          "client_id": "172406342060-668vnvdr5umh1df3ko8bi5qjd4r920a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFHIxFnmzcEMGEG8x8mtug65Kp7CYk4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172406342060-668vnvdr5umh1df3ko8bi5qjd4r920a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
